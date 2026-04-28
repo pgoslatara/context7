@@ -1,5 +1,11 @@
 # @upstash/context7-mcp
 
+## 2.2.2
+
+### Patch Changes
+
+- 8274bd0: Add missing tool annotations
+
 ## 2.2.1
 
 ### Patch Changes
